@@ -1,6 +1,6 @@
 groups:
     - bash
-    - osx_dev 
+    - osx_dev
 recipes:
     global:
         - dotfiles::sshconfig
@@ -40,7 +40,7 @@ attributes:
                 - nerdtree: https://github.com/scrooloose/nerdtree.git
                 - vim-css-color: https://github.com/ap/vim-css-color
     git:
-        name: Majik Dev 1 
+        name: Majik Dev 1
         email: support@appmajik.com
     osxdefaults:
         computername: Mir
@@ -55,3 +55,4 @@ attributes:
             - evernote
             - istat-menus
             - skitch
+            - skype
