@@ -16,3 +16,4 @@ attributes:
         cask_apps:
             - google-chrome
             - java
+            - lastpass-universal

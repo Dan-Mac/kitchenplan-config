@@ -52,7 +52,6 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         cask_apps:
-            - lastpass
             - evernote
             - istat-menus
             - skitch
